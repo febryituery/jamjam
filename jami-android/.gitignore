@@ -29,6 +29,5 @@ tests/bin
 /app/build/
 /androidtv/build/
 /libjamiclient/build/
-/libjamiclient/src/main/java/net/jami/daemon/*
 /build/
 **/google-services.json
